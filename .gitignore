@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env.*.local
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+.next/
+
+# Uploads (if storing locally)
+uploads/
+public/uploads/
+temp/
+
+# Logs
+logs/
+*.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
